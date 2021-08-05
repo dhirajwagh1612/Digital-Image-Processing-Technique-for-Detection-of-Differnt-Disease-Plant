@@ -1,4 +1,4 @@
-# digital-image-processing-technique-for-detection-of-differnt-disease-plant
+# Digital-Image-Processing-Technique-for-Detection-of-Differnt-Disease-Plant
 This is our engineering final year project 
 teammates - 1. Dhiraj Wagh(Team Leader) 
             2. Sainath Wadgaonkar.
